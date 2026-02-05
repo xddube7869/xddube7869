@@ -1,16 +1,14 @@
-## Hi there 👋
+# Namaste! I'm  Durgersh Dwiwedi 👋 
 
-<!--
-**xddube7869/xddube7869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 A Passionate Developer from India
+I love turning complex problems into simple, elegant code. Whether it's building robust backend logic in Java or automating tasks with Python, I'm always up for a challenge!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my Data Structures & Algorithms.
+- 🌱 I’m currently learning Advanced Backend Development.
+- 💬 Ask me about Java, Python, or Web Basics.
+- 📫 Reach me at: dk7869539081@gmail.com
+- ⚡ Fun fact: I believe any task done more than twice should be automated!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+- Languages: Java, Python, HTML5, CSS3
+- Tools: Git, GitHub, VS Code.
