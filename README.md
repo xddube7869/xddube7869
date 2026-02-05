@@ -1,4 +1,4 @@
-# Namaste! I'm  Durgersh Dwiwedi 👋 
+# Namaste! I'm  Durgersh Dwivedi 👋 
 
 ### 🚀 A Passionate Developer from India
 I love turning complex problems into simple, elegant code. Whether it's building robust backend logic in Java or automating tasks with Python, I'm always up for a challenge!
